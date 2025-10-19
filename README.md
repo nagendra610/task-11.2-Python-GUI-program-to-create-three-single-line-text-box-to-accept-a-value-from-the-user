@@ -1,0 +1,2 @@
+# task-11.2-Python-GUI-program-to-create-three-single-line-text-box-to-accept-a-value-from-the-user
+1Import the tkinter module 2.Create the main window 3.Add labels and text-boxes to the main window 4.Set the size of the text-boxes 5.Create a button to submit the values entered in the text-boxes 6.Get the values entered in the text-boxes when the button is clicked 7.Close the main window when the button is clicked
